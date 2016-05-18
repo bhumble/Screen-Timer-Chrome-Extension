@@ -1,0 +1,36 @@
+body
+{
+    white-space:nowrap;
+}
+
+img
+{
+    margin: 5px;
+    border: 0;
+    vertical-align: middle;
+    width: 32px;
+    height: 32px;
+}
+
+label
+{
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+input
+{
+    vertical-align: middle;
+}
+
+output
+{
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+button
+{
+    margin: 5px;
+    vertical-align: middle;
+}
